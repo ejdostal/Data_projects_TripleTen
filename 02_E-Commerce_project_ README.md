@@ -27,5 +27,4 @@ First I built a conversion funnel outlining each step and customer retention by 
 Total customer conversion rates and conversion rates to the next were calculated to determine how often customers who visited the website went on to make a purchase. Total customer retention rate and retention rates for each cohort month by month were also determined to analyze how frequently customers who made an initial purchase came back to make additional purchases with the compnay. A summary of analysis findings can be found in the Executive Summary as well as practical recommendations the e-commerce comany could consider moving forward. 
 
 
-Please have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1RJXpP5sq4VEvNBJWPpVhWK2vMkSgRY1oYPffN4hywLo/edit?usp=sharing)for a full description of results.
-**
+Please have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1Zt4jZ3kDbDwjamdXg27JpeNK1POlpxEzIytspTWkBwc/edit?usp=sharing)for a full description of results.
