@@ -1,4 +1,4 @@
-**# TripleTen Sprint 2 Project - E-Commerce Cohort Analysis
+## TripleTen Sprint 2 Project - E-Commerce Cohort Analysis
 
 This is the 2nd project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity to work with transaction logs and use them to analyze website performance.
 
@@ -21,10 +21,10 @@ The data is provided by TripleTen.
 
 #### The Process
 
-First I built a conversion funnel outlining each step and customer retention by each stage. Then I prepared the raw transactional data for cohort analysis by filtering purchases and performing key calculations. Cohorts were then aggregated and further analyzed individually and cumulatively month by month.
+First I built a conversion funnel outlining each stage of the funnel and customer retention by step. Then I prepared the raw transactional data for cohort analysis by filtering purchases and performing key calculations. Cohorts were then aggregated and further analyzed individually and cumulatively month by month.
 
 ### Results 
-Total customer conversion rates and conversion rates to the next were calculated to determine how often customers who visited the website went on to make a purchase. Total customer retention rate and retention rates for each cohort month by month were also determined to analyze how frequently customers who made an initial purchase came back to make additional purchases with the compnay. A summary of analysis findings can be found in the Executive Summary as well as practical recommendations the e-commerce comany could consider moving forward. 
+Total customer conversion rates and conversion rates from step to step in the funnel were calculated to determine how often customers who visited the website went on to make a purchase. Total customer retention rate and retention rates by cohorts month by month were also determined to analyze how frequently customers who made an initial purchase came back to make additional purchases with the compnay. A summary of analysis findings can be found in the Executive Summary as well as practical recommendations the e-commerce comany might consider moving forward. 
 
 
 Please have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1Zt4jZ3kDbDwjamdXg27JpeNK1POlpxEzIytspTWkBwc/edit?usp=sharing)for a full description of results.
