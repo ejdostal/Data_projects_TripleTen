@@ -1,4 +1,4 @@
-# TripleTen Sprint 2 Project - E-Commerce Cohort Analysis
+**# TripleTen Sprint 2 Project - E-Commerce Cohort Analysis
 
 This is the 2nd project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity to work with transaction logs and use them to analyze website performance.
 
@@ -28,3 +28,4 @@ Total customer conversion rates and conversion rates to the next were calculated
 
 
 Please have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1RJXpP5sq4VEvNBJWPpVhWK2vMkSgRY1oYPffN4hywLo/edit?usp=sharing)for a full description of results.
+**
