@@ -4,7 +4,7 @@ This is the final project I worked on in the TripleTen Business Intelligence Ana
 
 ### Zomato
 
-Zomato is a multinational restaurant aggregator and food delivery service company. The goal of this project is to analyze the business performance of restaurants and customers registered to the Zomato service. In particular, I chose to focus on Zomato customers, who they were, and their purchasing behaviors.
+Zomato is a multinational restaurant aggregator and food delivery service company. The goal of this project is to analyze the business performance of restaurants and customers registered to the Zomato service. In particular, I chose to focus on Zomato customers, their characteristics, and their purchasing behaviors.
 
 
 #### The Data  
