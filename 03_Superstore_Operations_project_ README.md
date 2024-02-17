@@ -1,8 +1,8 @@
-# TripleTen Sprint 3 Project - Superstore Operations
+# TripleTen Sprint 3 Project - Superstore Operations (Pt 1)
 
 This is the 3rd project I worked on in the TripleTen Business Intelligence Analyst program. It was my first experience completing an analysis in Tableau and it was a great opportunity to explore the software's unique data visualization features, including calculations, filters and parameters.  
 
-### Superstore Operations
+### Superstore Operations (Pt 1)
 
 The goal of this project is to review the business operations and identify ways the Superstore might increase profitability to avoid bankruptcy. The question of whether advertising might be worth it was also posed.
 
