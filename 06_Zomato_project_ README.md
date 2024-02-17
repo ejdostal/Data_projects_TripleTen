@@ -10,52 +10,52 @@ Zomato is a multinational restaurant aggregator and food delivery service compan
 #### The Data  
 The data was spread across 5 files:
 
-`users`: each row corresponds to a unique user id   
-`user_id`  
-`name`  
-`email`  
-`password`  
-`Age`  
-`Gender`  
-`Marital Status`  
-`Occupation`  
-`Monthly Income`  
-`Educational Qualifications`  
-`Family size`   
+`users`: each row corresponds to a unique user id.   
+- `user_id`  
+- `name`  
+- `email`  
+- `password`  
+- `Age`  
+- `Gender`  
+- `Marital Status`  
+- `Occupation`  
+- `Monthly Income`  
+- `Educational Qualifications`  
+- `Family size`   
 
-`orders`:  each row corresponds to a unique order date  
-`order_date`  
-`sales_qty`  
-`sales_amount`  
-`currency`  
-`user_id`  
-`r_id`  
+`orders`:  each row corresponds to a unique order date.  
+- `order_date`  
+- `sales_qty`  
+- `sales_amount`  
+- `currency`  
+- `user_id`  
+- `r_id`  
    
 
-`resturant`: each row corresponds to a unique resturant id  
-`id`  
-`name`  
-`city`  
-`rating`  
-`rating_count`  
-`cost`  
-`cuisine`  
-`lic_no`   
-`link`  
-`address`  
-`menu`  
+`resturant`: each row corresponds to a unique resturant id.  
+- `id`  
+- `name`  
+- `city`  
+- `rating`  
+- `rating_count`  
+- `cost`  
+- `cuisine`  
+- `lic_no`   
+- `link`  
+- `address`  
+- `menu`  
 
-`menu`: each row corresponds to a unique menu id  
-`menu_id`  
-`r_id`  
-`f_id`  
-`cuisine`  
-`price`  
+`menu`: each row corresponds to a unique menu id.  
+- `menu_id`  
+- `r_id`  
+- `f_id`  
+- `cuisine`  
+- `price`  
 
-`food`: each row corresponds to a unique food id  
-`f_d`  
-`item`  
-`veg_or_non_veg`  
+`food`: each row corresponds to a unique food id.  
+- `f_d`  
+- `item`  
+- `veg_or_non_veg`  
   
   
 The data was provided by TripleTen.  
