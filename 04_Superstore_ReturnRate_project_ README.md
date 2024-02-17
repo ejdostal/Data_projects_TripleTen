@@ -10,14 +10,14 @@ The goal of this project is to help the CEO of the Superstore understand what is
 
 The same two datasets from Project 3 were also used for this analysis:
 
-`Orders` : Each row corresponds to a unique order placed at the Superstore
+`Orders`: Each row corresponds to a unique order placed at the Superstore
 - `Row ID` 
 - `Order ID` 
 - `Order Date` 
 - `Ship Mode` 
 - `Customer ID`   
 - `Customer Name` 
-- `'Segment'` 
+- `Segment` 
 - `Country / Region` 
 - `City` 
 - `State` 
@@ -33,7 +33,7 @@ The same two datasets from Project 3 were also used for this analysis:
 - `Profit` 
 
 
-`Returns` : Each row corresponds to unique order that was returned to the Superstore.
+`Returns`: Each row corresponds to unique order that was returned to the Superstore.
 - `Returned` 
 - `Order ID` 
 
