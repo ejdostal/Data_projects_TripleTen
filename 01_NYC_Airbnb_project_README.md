@@ -6,6 +6,8 @@ This is the 1st project I worked on in the TripleTen Business Intelligence Analy
 
 The goal of this project is to determine useful insights from current Airbnb listings for a client interested in investing in the vacation rental market in the Manhattan borough of New York City. The client needed help prioritizing where to focus their research and wanted some guidance on what types of properties to consider for investment.
 
+![Airbnb](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/95a87f69-d7d6-434e-9804-2aff77fd1de3)
+
 #### The Data
 
 The data was spread across 2 files:
@@ -103,14 +105,15 @@ I first explored the dataset to better understand the data avaliable and how it 
 <img width="1460" alt="Screenshot 2024-02-16 at 5 17 54 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/f9bb20ce-b5b9-40e6-bb45-a6077ce74a79">
 
 
+<img width="876" alt="Average Occupancy" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/a121fbea-3dd5-4f0a-9625-43f5890596e5">
+
+<img width="608" alt="10 Most Popular Neighborhoods - P1" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/411afa30-e08c-4eac-a75b-1c540e9b7861">
+
 ### Results 
 Taking the time to explain my results at each step was a key element in this process, and this was my first attempt at doing it. I outlined the key analysis results in the Executive Summary page and provided a linked Table of Contents for easier navigating of the workbook.
 
-<img width="1341" alt="Assumptions + Change Log - P1_NYC Airbnb" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/75243fc0-6f9a-450c-9b2c-93001cac9fb5">
+<img width="1395" alt="Screenshot 2024-02-16 at 7 36 49 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/6236dd56-4960-4899-9da0-8a46c97c660d">
 
-
-
-<img width="1614" alt="TOC   Recommendations-P1_NYC Airbnb" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/26e72424-c725-4825-9b0f-f3112acb729f">
-
+<img width="1398" alt="Screenshot 2024-02-16 at 7 39 51 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/e82abec4-1056-4149-9ea1-a90915a9881c">
 
 Please have a look at the Google Sheets Workbook [linked here ](https://docs.google.com/spreadsheets/d/1RJXpP5sq4VEvNBJWPpVhWK2vMkSgRY1oYPffN4hywLo/edit?usp=sharing)for a full description of results.
