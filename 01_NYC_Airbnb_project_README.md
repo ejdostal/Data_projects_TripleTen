@@ -100,16 +100,17 @@ The data is provided by TripleTen.
 
 I first explored the dataset to better understand the data avaliable and how it would apply to the needs of the client. Then I cleaned and filtered the data, prepared essential columns, and combined essential information across tables. Finally, I analyzed the data using visualizations and pivot tables. 
 
-<img width="608" alt="10 Most Popular Neighborhoods - P1" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/f06f80c6-d782-48b1-8785-bfc0c143402e">
 <img width="1460" alt="Screenshot 2024-02-16 at 5 17 54 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/f9bb20ce-b5b9-40e6-bb45-a6077ce74a79">
-<img width="876" alt="Screenshot 2024-02-16 at 5 18 35 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/738312f2-e840-43cc-b1e0-4ddb8e4a005a">
 
 
 ### Results 
 Taking the time to explain my results at each step was a key element in this process, and this was my first attempt at doing it. I outlined the key analysis results in the Executive Summary page and provided a linked Table of Contents for easier navigating of the workbook.
 
-<img width="1614" alt="Client Recommendations   TOC_P1_NYC Airbnb" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/459dd782-9fcd-4525-9be4-e3e2827c5c02">
+<img width="1341" alt="Assumptions + Change Log - P1_NYC Airbnb" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/75243fc0-6f9a-450c-9b2c-93001cac9fb5">
 
+
+
+<img width="1614" alt="TOC   Recommendations-P1_NYC Airbnb" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/26e72424-c725-4825-9b0f-f3112acb729f">
 
 
 Please have a look at the Google Sheets Workbook [linked here ](https://docs.google.com/spreadsheets/d/1RJXpP5sq4VEvNBJWPpVhWK2vMkSgRY1oYPffN4hywLo/edit?usp=sharing)for a full description of results.
