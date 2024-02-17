@@ -10,12 +10,12 @@ The goal of this project is to help an e-commerce team understand how well their
 
 The data included one raw_user_activity transaction log:
 
-- `'user_id:'` unique customer IDs
-- `'event_type:'` the type of activity by the user
-- `'category_code:'` category of the product being viewed or purchased
-- `'brand:'` company that makes the product
-- `'price:'` price of the product, in USD
-- `'event_date:'` date of the user activity, in YYYY-MM-DD format
+- `user_id`: unique customer IDs
+- `event_type`: the type of activity by the user
+- `category_code`: category of the product being viewed or purchased
+- `brand`: company that makes the product
+- `price`: price of the product, in USD
+- `event_date`: date of the user activity, in YYYY-MM-DD format
 
 The data is provided by TripleTen.
 
@@ -27,4 +27,4 @@ First I built a conversion funnel outlining each stage of the funnel and custome
 Total customer conversion rates and conversion rates from step to step in the funnel were calculated to determine how often customers who visited the website went on to make a purchase. Total customer retention rate and retention rates by cohorts month by month were also determined to analyze how frequently customers who made an initial purchase came back to make additional purchases with the compnay. A summary of analysis findings can be found in the Executive Summary as well as practical recommendations the e-commerce comany might consider moving forward. 
 
 
-Please have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1Zt4jZ3kDbDwjamdXg27JpeNK1POlpxEzIytspTWkBwc/edit?usp=sharing)for a full description of results.
+Please have a look at the Google Sheets Workbook [linked here ](https://docs.google.com/spreadsheets/d/1Zt4jZ3kDbDwjamdXg27JpeNK1POlpxEzIytspTWkBwc/edit?usp=sharing)for a full description of results.
