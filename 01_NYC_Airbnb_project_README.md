@@ -13,7 +13,7 @@ The goal of this project is to determine useful insights from current Airbnb lis
 The data was spread across 2 files:
 
 `listings`: each row corresponds to a unique Airbnb listing
-- `id`: Airbnb's unique identifier for the listing  
+- `id`: Airbnb's unique identifier for the listing
 - `listing_url`  
 - `scrape_id`: Inside Airbnb "Scrape" this was part of  
 - `last_scraped`: UTC. The date and time this listing was "scraped"  
@@ -47,7 +47,6 @@ The data was spread across 2 files:
 Entire places are best if you're seeking a home away from home. With an entire place, you'll have the whole space to yourself. This usually includes a bedroom, a bathroom, a kitchen, and a separate, dedicated entrance. Hosts should note in the description if they'll be on the property or not (ex: "Host occupies first floor of the home"), and provide further details on the listing.
 Private rooms are great for when you prefer a little privacy, and still value a local connection. When you book a private room, you'll have your own private room for sleeping and may share some spaces with others. You might need to walk through indoor spaces that another host or guest may occupy to get to your room.
 Shared rooms are for when you don't mind sharing a space with others. When you book a shared room, you'll be sleeping in a space that is shared with others and share the entire space with other people. Shared rooms are popular among flexible travelers looking for new friends and budget-friendly stays.
-  
 - `accomodates`: The maximum capacity of the listing  
 - `bathrooms`: The number of bathrooms in the listing  
 - `bathrooms_text`: The number of bathrooms in the listing. On the Airbnb web-site, the bathrooms field has evolved from a number to a textual description. For older scrapes, bathrooms is used.  
@@ -79,11 +78,11 @@ Shared rooms are for when you don't mind sharing a space with others. When you b
 - `review_scores_value`  
 - `license`: The licence/permit/registration number  
 - `The licence/permit/registration number`: [t=true; f=false]. Whether the guest can automatically book the listing without the host requiring to accept their booking request. An indicator of a commercial listing.  
-- `calculated_host_listings_count`: The number of listings the host has in the current scrape, in the city/region geography.  
-- `calculated_host_listings_count_entire_homes`: The number of Entire home/apt listings the host has in the current scrape, in the city/region geography  
+- `calculated_host_listings_count`: The number of listings the host has in the current scrape, in the city/region geography.
+- `calculated_host_listings_count_entire_homes`: The number of Entire home/apt listings the host has in the current scrape, in the city/region geography
 - `calculated_host_listings_count_private_rooms`: The number of Private room listings the host has in the current scrape, in the city/region geography  
-- `calculated_host_listings_count_shared_rooms`: The number of Shared room listings the host has in the current scrape, in the city/region geography  
-- `reviews_per_month`: The number of reviews the listing has over the lifetime of the listing  
+- `calculated_host_listings_count_shared_rooms`: The number of Shared room listings the host has in the current scrape, in the city/region geography
+- `reviews_per_month`: The number of reviews the listing has over the lifetime of the listing
    
  
 `calendar`: each row corresponds to a unique Airbnb listing ; The calendar file records the price, availability and other details from the listing's calendar for each day of the next 365 days from the given date.
