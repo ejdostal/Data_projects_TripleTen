@@ -1,14 +1,14 @@
-# TripleTen Sprint 4 Project - Superstore Returns (Pt 2)
+# TripleTen Sprint 4 Project - Superstore Return Rates
 
 This is the 4th project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity to dive deeper into the Superstore dataset, this time with a new focus on analyzing store returns. I expanded my Tableau skillset to include interactive dashboards and Tableau Story presentations.
 
-### Superstore Returns (Pt 2)
+### Superstore Return Rates
 
 The goal of this project is to help the CEO of the Superstore understand what is causing customers to return their orders and how to reduce the volume of returned orders. A presentation was also prepared, as well as a dashboard for monitoring returns.
 
 ![superstore logo](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/271f873c-f48d-4433-a00f-57d4b6599cad)
 
-#### The Data
+### The Data
 
 The same two datasets from Project 3 were also used for this analysis:
 
@@ -40,7 +40,7 @@ The same two datasets from Project 3 were also used for this analysis:
 
 The data is provided by TripleTen, who got it from Tableau.
 
-#### The Process
+### The Process
 
 First, I joined the data in Tableau on unique Order ID, as in Project 3. Then I prepared and pre-processed data for aggregations and use in key metrics. Then the analysis was conducted, using visualizations to identify correlations and measure metrics by a number of relevant dimensions. A dashboard was created for further monitoring of returns. Finally, the results of the analysis were presented and summarized in Tableau Story.
 
