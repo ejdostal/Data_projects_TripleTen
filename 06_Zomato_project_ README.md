@@ -1,8 +1,8 @@
-# TripleTen Sprint 5 Project - Zomato
+# TripleTen Sprint 5 Project - Zomato Customers
 
 This is the final project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity to practice and review many of the new skills I learned throughout the curriculum. For this project, I could choose between one of three major areas of analysis to focus on: customer analysis, resturaunt analysis, and sales analysis. For my final analysis, I chose to focus on Zomato customers.
 
-### Zomato
+### Zomato Customers
 
 Zomato is a multinational restaurant aggregator and food delivery service company. The goal of this project is to analyze the business performance of restaurants and customers registered to the Zomato service. In particular, I chose to focus on Zomato customers, their characteristics, and their purchasing behaviors.
 
@@ -70,4 +70,4 @@ After reviewing the datasets and choosing an area of focus, I wrote and submitte
 The results of this analysis included a decomposition, a final report summarizing key analysis findings, and a dashboard for further analysis of Zomato customers. 
 
 
-Please have a look at the Zomato customer analysis dashboard [linked here ](https://public.tableau.com/views/ZomatoCustomerAnalysisDashboard/CustomerCohortDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)for a full description of results.
+Please have a look at the [full report ](https://drive.google.com/file/d/1uSM46u2JFCWPFk6KR33JhcBjuSZiiFPM/view?usp=sharing) and [dashboard ](https://public.tableau.com/views/ZomatoCustomerAnalysisDashboard/CustomerCohortDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) linked here for a full description of results.
