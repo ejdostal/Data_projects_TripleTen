@@ -42,7 +42,7 @@ The data is provided by TripleTen, who got it from Tableau.
 
 #### The Process
 
-First, I joined the data in Tableau on unique Order ID, as in Project 3. Then I prepared and pre-processed data for aggregations and use in key metrics. Then the analysis was conducted, using visualizations to identify correlations and measure metrics by a number of relevant dimensions. A dashboard was created for further monitoring of returns. Finally, the results of the analysis were summarized and presented in Tableau Story.
+First, I joined the data in Tableau on unique Order ID, as in Project 3. Then I prepared and pre-processed data for aggregations and use in key metrics. Then the analysis was conducted, using visualizations to identify correlations and measure metrics by a number of relevant dimensions. A dashboard was created for further monitoring of returns. Finally, the results of the analysis were presented and summarized in Tableau Story.
 
 <img width="814" alt="Screenshot 2024-02-16 at 8 32 45 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/180de271-f005-40fb-8f95-07af8dbca826">
 
@@ -53,4 +53,4 @@ First, I joined the data in Tableau on unique Order ID, as in Project 3. Then I 
 
 The results of this analysis included a dashboard for monitoring returns by different measures and dimensions, as well as a presentation summarizing key findings of the analysis and proposed next steps. 
 
-Please have a look at the final [presentation ](https://public.tableau.com/views/SuperstoreReturnsPt2/3_Presentation?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) and [dashboard ](https://public.tableau.com/views/MonitoringReturnsDashboard-SuperstoreReturnsPt2/2_MonitoringReturnsDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) linked here for a full description of results.
+Please have a look at the full [presentation ](https://public.tableau.com/views/SuperstoreReturnsPt2/3_Presentation?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) and [dashboard ](https://public.tableau.com/views/MonitoringReturnsDashboard-SuperstoreReturnsPt2/2_MonitoringReturnsDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) linked here for a full description of results.
