@@ -2,10 +2,11 @@
 
 This is the final project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity to practice and review many of the new skills I learned throughout the curriculum. For this project, I could choose between one of three major areas of analysis to focus on: customer analysis, resturaunt analysis, and sales analysis. For my final analysis, I chose to focus on Zomato customers.
 
+![zomato](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/4215904a-a819-46a5-a638-0437c12dc88c)
+
 ### Zomato Customers
 
 Zomato is a multinational restaurant aggregator and food delivery service company. The goal of this project is to analyze the business performance of restaurants and customers registered to the Zomato service. In particular, I chose to focus on Zomato customers, their characteristics, and their purchasing behaviors.
-
 
 #### The Data  
 The data was spread across 5 files:
