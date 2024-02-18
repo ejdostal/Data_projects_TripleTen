@@ -66,6 +66,9 @@ The data was provided by TripleTen.
 
 After reviewing the datasets and choosing an area of focus, I wrote and submitted a decomposition for approval. Upon recieving approval, I began my analysis in Tableau. I joined the datasets together, cleaned and preprocessed essential columns, converted currencies as necessary, and peformed aggregations. A number of visualizations and tables were created to help identify patterns, trends, and correlations of significance. Customers were segmented by their months of first purchase, and active user retention rates and revenue were calculated by cohort month by month. Finally, a report was prepared summarizing the key findings of the analysis as well as a dashboard for further customer analysis.
 
+<img width="1326" alt="Screenshot 2024-02-18 at 11 00 26 AM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/9682a383-8891-4e4d-b22f-0f3f7f6fd875">
+
+
 ### Results 
 
 The results of this analysis included a decomposition, a final report summarizing key analysis findings, and a dashboard for further analysis of Zomato customers. 
