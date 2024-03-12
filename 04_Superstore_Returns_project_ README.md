@@ -1,4 +1,4 @@
-# TripleTen Sprint 4 Project - Superstore Return Rates
+# Project 4 - Superstore Returns Analysis
 
 This is the 4th project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity to dive deeper into the Superstore dataset, this time with a new focus on analyzing store returns. I expanded my Tableau skillset to include interactive dashboards and Tableau Story presentations.
 
