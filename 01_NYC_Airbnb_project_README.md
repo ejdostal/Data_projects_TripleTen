@@ -4,7 +4,7 @@ This is the 1st project I worked on in the TripleTen Business Intelligence Analy
 
 ### NYC Airbnb Properties
 
-The goal of this project is to determine useful insights from current Airbnb listings for a client interested in investing in the vacation rental market in the Manhattan borough of New York City. The client needed help prioritizing where to focus their research and wanted some guidance on what types of properties to consider for investment.
+The goal of this project was to determine useful insights from current Airbnb listings for a client interested in investing in the vacation rental market in the Manhattan borough of New York City. The client needed help prioritizing where to focus their research and wanted some guidance on what types of properties to consider for investment.
 
 ![Airbnb](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/95a87f69-d7d6-434e-9804-2aff77fd1de3)
 
