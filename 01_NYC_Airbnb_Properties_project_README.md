@@ -1,4 +1,4 @@
-# TripleTen Sprint 1 Project - NYC Airbnb Properties
+# Project 1 - NYC Airbnb Properties Analysis
 
 This is the 1st project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity for me to practice and combine many of the skills I learned about working with data in Google Sheets in a realistic, real-world setting. Functions and formulas were used to clean, combine, split, and perform calculations on the data provided. Pivot tables were created to analyze and slice the data to explore the relevant questions. Best practices were used to protect, organize and navigate the project including version numbering, a linked Table of Contents, a brief Executive Summary, and an Assumptions & Change Log.
 
