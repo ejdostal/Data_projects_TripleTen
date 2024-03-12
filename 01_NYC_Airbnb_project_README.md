@@ -12,7 +12,7 @@ The goal of this project was to determine useful insights from current Airbnb li
 
 The data was spread across 2 files:
 
-`listings`: each row corresponds to a unique Airbnb listing
+`listings`: Each row corresponded to a unique Airbnb listing.
 - `id`: Airbnb's unique identifier for the listing
 - `listing_url`  
 - `scrape_id`: Inside Airbnb "Scrape" this was part of  
