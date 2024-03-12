@@ -1,4 +1,4 @@
-# Project 3 - Superstore General Operations Analysis
+# Project 3 - Superstore Operations Analysis
 
 This is the third project I worked on in the TripleTen Business Intelligence Analyst program. It was my first experience completing an analysis in Tableau and it was a great opportunity for me to explore the software's unique data visualization features, including calculations, filters and parameters.  
 
