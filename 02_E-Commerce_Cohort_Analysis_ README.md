@@ -1,4 +1,4 @@
-## TripleTen Sprint 2 Project - E-Commerce Cohort Analysis
+# Project 2 - E-Commerce Cohort Analysis
 
 This is the 2nd project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity to work with transaction logs and use them to analyze website performance.
 
