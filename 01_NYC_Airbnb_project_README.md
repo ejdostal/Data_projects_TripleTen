@@ -85,7 +85,7 @@ Shared rooms are for when you don't mind sharing a space with others. When you b
 - `reviews_per_month`: The number of reviews the listing has over the lifetime of the listing
    
  
-`calendar`: each row corresponds to a unique Airbnb listing ; The calendar file records the price, availability and other details from the listing's calendar for each day of the next 365 days from the given date.
+`calendar`: Each row corresponded to a unique Airbnb listing. The calendar file recorded the price, availability and other details from the listing's calendar for each day of the next 365 days from the given date.
 
 - `listing_id`: ID number that uniquely identifies each Airbnb listing
 - `date`: The date in the listing's calendar
