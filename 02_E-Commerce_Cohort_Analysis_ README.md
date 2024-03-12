@@ -34,7 +34,7 @@ First, I built a conversion funnel, outlining each stage of the funnel and custo
 
 
 ### Results 
-Total customer conversion rates and conversion rates from step to step in the funnel were calculated to determine how often customers who visited the website went on to make a purchase. Total customer retention rate and retention rate by cohorts month by month were also determined to analyze how frequently customers who made an initial purchase came back to make additional purchases with the company. A complete summary of analysis findings can be found in the Executive Summary tab within the Google Sheets Workbook linked below, as well as practical recommendations for the e-commerce company moving forward based off of those findings. 
+Total customer conversion rates and conversion rates from step to step in the funnel were calculated to determine how often customers who visited the website went on to make a purchase. Total customer retention rate and retention rate by cohorts month by month were also determined to analyze how frequently customers who made an initial purchase came back to make additional purchases with the company. A summary of analysis findings can be found in the Executive Summary tab within the Google Sheets Workbook linked below, as well as practical recommendations for the e-commerce company moving forward based off of those findings. 
 
 <img width="447" alt="Screenshot 2024-02-16 at 7 47 50 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/a9516f2e-d934-4ce6-9edc-764e232ee126">
 
