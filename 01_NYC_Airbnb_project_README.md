@@ -10,7 +10,7 @@ The goal of this project was to determine useful insights from current Airbnb li
 
 #### The Data
 
-The data was spread across 2 files:
+The data was spread across 2 files: `listings` and `calendar`. There were several unique columns of data within each file.
 
 `listings`: Each row corresponded to a unique Airbnb listing.
 - `id`: Airbnb's unique identifier for the listing
@@ -43,11 +43,13 @@ The data was spread across 2 files:
 - `latitude`: Uses the World Geodetic System (WGS84) projection for latitude and longitude.  
 - `longitude`: Uses the World Geodetic System (WGS84) projection for latitude and longitude.  
 - `property_type`: Self selected property type. Hotels and Bed and Breakfasts are described as such by their hosts in this field  
-- `room_type`: All homes are grouped into the following three room types:  
-Entire places are best if you're seeking a home away from home. With an entire place, you'll have the whole space to yourself. This usually includes a bedroom, a bathroom, a kitchen, and a separate, dedicated entrance. Hosts should note in the description if they'll be on the property or not (ex: "Host occupies first floor of the home"), and provide further details on the listing.
+- `room_type`: All homes are grouped into the following three room types:
+ 
+   Entire places are best if you're seeking a home away from home. With an entire place, you'll have the whole space to yourself. This usually includes a bedroom, a bathroom, a kitchen, and a separate, dedicated entrance. Hosts should note in the description if they'll be on the property or not (ex: "Host occupies first floor of the home"), and provide further details on the listing.
 
-Private rooms are great for when you prefer a little privacy, and still value a local connection. When you book a private room, you'll have your own private room for sleeping and may share some spaces with others. You might need to walk through indoor spaces that another host or guest may occupy to get to your room.
-Shared rooms are for when you don't mind sharing a space with others. When you book a shared room, you'll be sleeping in a space that is shared with others and share the entire space with other people. Shared rooms are popular among flexible travelers looking for new friends and budget-friendly stays.
+   Private rooms are great for when you prefer a little privacy, and still value a local connection. When you book a private room, you'll have your own private room for sleeping and may share some spaces with others. You might need to walk through indoor spaces that another host or guest may occupy to get to your room.
+
+   Shared rooms are for when you don't mind sharing a space with others. When you book a shared room, you'll be sleeping in a space that is shared with others and share the entire space with other people. Shared rooms are popular among flexible travelers looking for new friends and budget-friendly stays.
 - `accomodates`: The maximum capacity of the listing  
 - `bathrooms`: The number of bathrooms in the listing  
 - `bathrooms_text`: The number of bathrooms in the listing. On the Airbnb web-site, the bathrooms field has evolved from a number to a textual description. For older scrapes, bathrooms is used.  
@@ -85,7 +87,6 @@ Shared rooms are for when you don't mind sharing a space with others. When you b
 - `calculated_host_listings_count_shared_rooms`: The number of Shared room listings the host has in the current scrape, in the city/region geography
 - `reviews_per_month`: The number of reviews the listing has over the lifetime of the listing
    
- 
 `calendar`: Each row corresponded to a unique Airbnb listing. The calendar file recorded the price, availability and other details from the listing's calendar for each day of the next 365 days from the given date.
 
 - `listing_id`: ID number that uniquely identifies each Airbnb listing
@@ -96,21 +97,20 @@ Shared rooms are for when you don't mind sharing a space with others. When you b
 - `minimum_nights`: Minimum nights for a booking made on this day
 - `maximum_nights`: Maximum nights for a booking made on this day
 
-The data is provided by TripleTen.
+This data was provided by TripleTen.
 
 ### The Process
 
-I first explored the dataset to better understand the data avaliable and how it would apply to the needs of the client. Then I cleaned and filtered the data, prepared essential columns, and combined essential information across tables. Finally, I analyzed the data using visualizations and pivot tables. 
+First, I explored the files to better understand the data avaliable and how it would apply to the needs of the client. Then I filtered the data, cleaned and prepared essential columns for calculations, and then aggregated essential information across tables. Finally, I analyzed the data using visualizations and pivot tables. 
 
 <img width="1460" alt="Screenshot 2024-02-16 at 5 17 54 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/f9bb20ce-b5b9-40e6-bb45-a6077ce74a79">
-
 
 <img width="876" alt="Average Occupancy" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/a121fbea-3dd5-4f0a-9625-43f5890596e5">
 
 <img width="608" alt="10 Most Popular Neighborhoods - P1" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/411afa30-e08c-4eac-a75b-1c540e9b7861">
 
 ### Results 
-Taking the time to explain my results at each step was a key element in this process, and this was my first attempt at doing it. I outlined the key analysis results in the Executive Summary page and provided a linked Table of Contents for easier navigating of the workbook.
+Taking the time to explain my results at each step was a key element in this process, and this was my first attempt at doing so with an analysis. I outlined the key analysis results briefly in the Executive Summary page and created a linked Table of Contents for easier navigation of the workbook.
 
 <img width="1395" alt="Screenshot 2024-02-16 at 7 36 49 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/6236dd56-4960-4899-9da0-8a46c97c660d">
 
