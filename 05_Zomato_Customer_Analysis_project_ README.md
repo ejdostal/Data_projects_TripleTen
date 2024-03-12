@@ -1,4 +1,4 @@
-# TripleTen Sprint 5 Project - Zomato Customers
+# Project 5 - Zomato Customer Analysis
 
 This is the final project I worked on in the TripleTen Business Intelligence Analyst program. It was a great opportunity to practice and review many of the new skills I learned throughout the curriculum. For this project, I could choose between one of three major areas of analysis to focus on: customer analysis, resturaunt analysis, and sales analysis. For my final analysis, I chose to focus on Zomato customers.
 
