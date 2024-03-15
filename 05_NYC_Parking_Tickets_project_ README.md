@@ -212,7 +212,7 @@ The data was spread across 4 files and covered information collected by the NYC 
 - `Double Parking Violation`: Plain Text  
 
 
-This data was provided by TripleTen, who got it from Kaggle.  
+This data was provided by TripleTen, who recieved it from Kaggle.  
 
 
 #### The Process
