@@ -1,7 +1,7 @@
 # Project 5 - NYC Parking Tickets Analysis
-This is a project I worked on with a team of other analysts as part of a Dec 2023 - Jan 2024 Data Hackathon hosted by TripleTen. During this hackathon, each team was given a dataset to analysis and asked solve specific business problems.
+This is a project I worked on with a team of other analysts as part of a Dec 2023 - Jan 2024 Data Hackathon hosted by TripleTen. During this hackathon, each team was given a dataset to analysis and asked solve specific business problems. This experience was a great one for a lot of reasons, not the least of which because it gave us an opportunity to collaborate with other analysts, practice with new datasets, and observe how others approached business problems differently. 
 
-This experience was a great one for a lot of reasons, not the least of which because it gave us an opportunity to collaborate with other each, try out new datasets, and observe how others approached business problems differently. 
+<img width="1204" alt="Screenshot 2024-02-14 at 2 57 11 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/f8dee051-9168-4704-9054-38afe356af7e">
 
 ### NYC Parking Tickets
 My team was asked to provide a report for a private parking providing company about their possible growth in NYC using a dataset on parking violations from the NYC Department of Finance. We were asked to analyze the data for relevant insights, including the most popular parking areas and vehicle types, tickets info, and seasonality.
@@ -221,9 +221,14 @@ First our team met via Zoom and went over the NYC Department of Finance dataset.
 
 Upon recieving a cleaned dataset as well as a wealth of data findings from the analysis process, we reviewed, summarized/ consolidated analysis findings into final conclusions. We organized our report into slides explaining findings based on location, time, and vehicle type. At the beginning of the presentation we made sure to include any assumptions recorded by our teams during the cleaning and analysis processes as well as a review of the key questions this analysis intended to answer. At the end of the presentation we offered relevant business recommendations based off the conclusions drawn from the analysis.
 
+<img width="1094" alt="Screenshot 2024-03-15 at 2 23 21 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/bf73b782-10d5-47b7-8fdb-9a5149d8ac55">
+
+<img width="1094" alt="Screenshot 2024-03-15 at 2 23 29 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/534e90c7-4bb9-4f6e-a903-c741c1fa7b4a">
+
+
 ### Results 
 
-The results of this analysis included a final, joined file of data, a Jupiter notebook with findings and visuals gathered from the data analysis, and a final Tableau Story presentation reporting key conclusions and business recommendations from the analysis for stakeholders.
+The results of this analysis included a final, cleaned dataset, a Jupiter notebook with findings and visuals gathered from the data analysis, and a final Tableau Story presentation reporting key conclusions and business recommendations based on group analysis findings.
 
 
 Please have a look at the [final presentation ](https://public.tableau.com/views/NYCParkingTickets_17079577730140/NYCParkingTickets?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)linked here for a full description of results.
