@@ -40,3 +40,6 @@ Total customer conversion rates and conversion rates from step to step in the fu
 
 
 Please have a look at the Google Sheets Workbook [linked here ](https://docs.google.com/spreadsheets/d/1Zt4jZ3kDbDwjamdXg27JpeNK1POlpxEzIytspTWkBwc/edit?usp=sharing)for a full description of results.
+
+### Idea for Improvement
+If I were to edit this project, I would probably change the intensity of the colors used in the Table of Contents tab. While I know it seems minor, I think it might distract from the content and even make the workbook a bit harder to navigate.
