@@ -117,3 +117,6 @@ Taking the time to explain my results at each step was a key element in this pro
 <img width="1398" alt="Screenshot 2024-02-16 at 7 39 51 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/e82abec4-1056-4149-9ea1-a90915a9881c">
 
 Please have a look at the [Google Sheets Workbook](https://docs.google.com/spreadsheets/d/1RJXpP5sq4VEvNBJWPpVhWK2vMkSgRY1oYPffN4hywLo/edit?usp=sharing) linked here for a full description of results.
+
+### Idea for Improvement
+If I were to do this project all over again, I would probably consolidate my Find/Change Log a bit. While it's always good to record the steps taken in a analysis - so that both yourself and others can trace your steps later - I can see now after having a bit more experience, that some things aren't as important to record as others. For example, I probably didn't need to record actions such as color scaling and column resizing, as the visual cues for these actions tend to be more obvious to the viewer. Condensing down the Find/Change Log to include just the essentials would make it easier to trace less obvious steps in the analysis, such as the creating and then hiding a helper column used in a calculation.
