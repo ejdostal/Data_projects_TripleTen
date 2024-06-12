@@ -5,7 +5,7 @@ This is a project I worked on during a two month long externship with SuperNova 
 
 ## SuperNova MGU
 
-As mentioned above, this data project was coducted for the company, SuperNova MGU. SuperNova's mission is to redefine insurance excellence and it brings together a team of seasoned industry leaders dedicated to innovation and efficiency with a broker-centric approach. You can[read more SuperNova MGU here at their website. ]([https://supernovamgu.com/)
+As mentioned above, this data project was coducted for the company, SuperNova MGU. SuperNova's mission is to redefine insurance excellence and it brings together a team of seasoned industry leaders dedicated to innovation and efficiency with a broker-centric approach. You can [read more SuperNova MGU here at their website. ](https://supernovamgu.com/)
 
 <img width="1106" alt="Screenshot 2024-06-03 at 2 24 18 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/086c4cea-3d61-44b4-9bff-df5916323d6d">
 
