@@ -1,12 +1,12 @@
-<img width="1106" alt="Screenshot 2024-06-03 at 2 24 18 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/736225cd-e331-49ce-8bbf-ceef2e6d8fad"># SuperNova Externship - Health Inspection Records Analysis
+# SuperNova Externship - Health Inspection Records Analysis
 
 This is a project I worked on during a two month long externship with SuperNova MGU. It was a great opportunity for me to gain some real world experience and to continue growing as a professional. Collaborating with two other data analysts and the team lead, we completed a big data project together from start to finish: from web scraping, to cleaning and pre-processing, to conducting analyses and creating data visualizations, to presentating final esults and recommendations to stakeholders. 
-
-<img width="1106" alt="Screenshot 2024-06-03 at 2 24 18 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/086c4cea-3d61-44b4-9bff-df5916323d6d">
 
 ## SuperNova MGU
 
 As mentioned above, this data project was coducted for the company, SuperNova MGU. SuperNova's mission is to redefine insurance excellence and it brings together a team of seasoned industry leaders dedicated to innovation and efficiency with a broker-centric approach. You can [read more SuperNova MGU here at their website.] (https://supernovamgu.com/) 
+
+<img width="1106" alt="Screenshot 2024-06-03 at 2 24 18 PM" src="https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/086c4cea-3d61-44b4-9bff-df5916323d6d">
 
 ## Health Inspection Records
 
@@ -71,7 +71,8 @@ Then, I began aggregating and slicing data further based on some big picture que
 
 Finally, I developed multiple data visualizations and charts with descriptive headers to represent my key findings in order make data comparison, understanding, and communication of major results easier to digest for stakeholders during final presentation. 
 
-![Pass : Fail by Inspection Category](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/c3515bd8-86f7-47a6-bcb9-c5d766855f75)
+![Pass : Fail by Inspection Category](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/35005919-b341-49df-821b-c5b5f305bab4)
+
 
 ## Results 
 
@@ -79,6 +80,7 @@ We met up again with the team lead to share and combine our findings. We each es
 
 As first speaker, I attempted to orientate the client by providing a bigger picture view of the data scraped and provide context for the significance of some of the key facts and figures. In particular, my portion of the presentation focused on conveying overall data makeup across region, inspection category and pass/fail rate and how these figures compared with one another. 
 
-You can have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1RJXpP5sq4VEvNBJWPpVhWK2vMkSgRY1oYPffN4hywLo/edit?usp=sharing)for a more detailed view of major analysis results as well as [my portion of final presentation to SuperNova stakeholders here].(https://docs.google.com/presentation/d/10mfSnhwbdKAL2EqM8qvk7jkkBh-F2K-GsZtmS3M1sqg/edit?usp=sharing) 
+You can have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1ZwUbskAimnJ_r7CBGr2PWSiFIXGusyGLmnMqu_lA-Uk/edit?usp=sharing) for a more detailed view of major analysis results as well as [my portion of final presentation to SuperNova stakeholders here].(https://docs.google.com/presentation/d/10mfSnhwbdKAL2EqM8qvk7jkkBh-F2K-GsZtmS3M1sqg/edit?usp=sharing) 
 
-[Supernova_MGU_Externships_Erica.pdf](https://github.com/user-attachments/files/15810333/Supernova_MGU_Externships_Erica.pdf)
+![Supernova_MGU_Externships_Erica](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/d612c1bc-9857-478d-af42-f6038e99b9e8)
+
