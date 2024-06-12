@@ -1,20 +1,20 @@
 # SuperNova Externship - Health Inspection Records Analysis
 
-This is a project I worked on as part of a two month long externship with SuperNova MGU. It was a valuable opportunity for me to gain some real world experience and to continue growth as a professional. Collaborating with two other data professionals under the team lead, we completeda big data project was completed from start to finish: from the scraping of data, to cleaning and pre-processing process, to conducting unique analyses and estabishing informative data visualizations, to the presentation of major results and data recommendations to stakeholders. 
+This is a project I worked on during a two month long externship with SuperNova MGU. It was a great opportunity for me to gain some real world experience and to continue growing as a professional. Collaborating with two other data analysts and the team lead, we completed a big data project together from start to finish: from web scraping, to cleaning and pre-processing, to conducting analyses and creating data visualizations, to presentating final esults and recommendations to stakeholders. 
 
-# SuperNova MGU
+## SuperNova MGU
 
-As mentioned above, this externship was hosted by SuperNova MGU. SuperNova seeks to redefine insurance excellence  company brings together a team of seasoned industry leaders dedicated to innovation and efficiency with a broker-centric approach. You can [read more SuperNova MGU here at their website.] (https://supernovamgu.com/) 
+As mentioned above, this data project was coducted for the company, SuperNova MGU. SuperNova's mission is to redefine insurance excellence and it brings together a team of seasoned industry leaders dedicated to innovation and efficiency with a broker-centric approach. You can [read more SuperNova MGU here at their website.] (https://supernovamgu.com/) 
 
-### Health Inspection Records
+## Health Inspection Records
 
-The goal for this externship was to analyze data avaliable online from a variety of unique health inspection records and violations for insights and linkage with claims. Major milestones of this process included the scraping and collection of the data in a spreadsheet, the cleaning/standardizing of collected data with irregularities, the forming and sharing of unique analyses and insights, and the combining of all major analysis results into a single, cohesive presentation to stakeholders.
+The goal for this project was to analyze data avaliable online from a variety of different health inspection records for linkage with claims. Major milestones of the process included the scraping and collection of this data into a single, organized spreadsheet, the cleaning/normalizing of data columns sourced from different regions, the forming and communication of unique analyses and insights with collaborators, and the combining and consolidation of all major insights into a concise, informative presentation for stakeholders.
 
-#### The Data
+## The Data
 
-The data we used to accomplish this came from 10 unique health units and was composed of a total of 112,811 unique inspection records. Our team lead, Mike Lee, was primarily responsible for the scraping of data, which was accomplished using Python Selenium and Jupyter Notebook. My fellow analysts and I participated closely in this web scraping process through live observations of Mike's process, ongoing learning of basic Python a through a concurrent learning sprint course, and ongoing workshops and office hours where we had opportunities to ask questions and try to replicate Mike's process. 
+The data we used to accomplish this came from 10 unique regions and was made up of a total of 112,811 unique inspection records. Our team lead, Mike Lee, was primarily responsible for web scraping of data, which was accomplished using Python Selenium and Jupyter Notebook. My fellow analysts and I participated closely in the scraping process through via observations of Mike's process, ongoing learning of basic Python structures and applications through a concurrent learning sprint, and ongoing workshops and office hours where we had opportunities to ask questions and attempt to replicate Mike's process. 
 
-All web data scraped was combined into single spreadsheet for further analysis. Each row represented in the table represented a unique inspection record and a one-to-many relationship between entities (business) and inspections:
+All data scraped was eventually aggregated into single spreadsheet for further analysis. Each row in the table represented a unique inspection record. A one-to-many relationship also existed between entities (business) and inspections:
 
 - `url_inspection_full`: represents unique ID for each inspection report created
 - `inspection_results`
@@ -57,22 +57,22 @@ All web data scraped was combined into single spreadsheet for further analysis. 
 - `Reopen Date`
 
 
-#### The Process
+## The Process
 
-Upon recieving the aggregated data, we each began our unique explorations of the content. 
+Upon recieving the aggregated data, my fellow analysts and I each began our own unique explorations of the content. 
 
-The very first step I took was to explore the data avaliable and make sure I understood the purpose and meaning of relevant columns. I clarified data column purposes and definitions where necessary through the inspection of associated urls as well as through consultations with the team lead. 
+The first step I took in my analysis was to explore the data avaliable and make sure I understood the purpose and meaning of relevant columns. I clarified data column purposes and definitions by inspecting associated urls and consulting with the team lead as needed. 
 
-Next, upon clearer understanding of column similarities and differences, I worked to standardize relevant columns for futher aggregation and analysis through pre-processing. As the content came scraped 10 different web sources, their were irregularities in human recording in many of the columns. Frequency analysis based on common keywords was required to merge similar columns and aggregate findings based on their pass/fail rates and associated inspection categories. This was done through a combination of functions and formulas, data slicing, and manual evaluation. This data cleaning process took up a majority of the time. You can see much greater detail about my approach here in the find_and_change_log page.
+Next, upon better understanding of data column similarities and differences, I worked to standardize and merge relevant columns for futher aggregation and analysis. As the content was scraped 10 different web sources, their were irregularities in human recording in many of the columns that required pre-processing before further analysis could be done. A combination of frequency analysis based on keywords, as well as functions and formulas, data slicing and some manual evaluation, was used to merge similar columns and aggregate values based on inspection result and inspection category. This process took up the most time. You can see greater detail about the specifics of this process here in the find_and_change_log page.
 
-After, I began aggregating and slicing data based on some big picture questions I had regarding the data. I used a combination of original and newly normalized columns to orientate myself (and the client) to get a better understanding of the scraped data and it's significance. I went on to determining average pass/fail rates by region and inspection categories, as well overall composition of the data to determine result significance.
+Then, I began aggregating and slicing data further based on some big picture questions I had regarding the data scraped, using a combination of both the original and newly normalized columns to orientate myself (and the client). In particular, my analysis focused on determining average pass/fail rate compositions by region and inspection category and their relations to one another.
 
-As a final step, I developed multiple data visualizations and charts with descriptive headers to represent key findings in make data comparison, understanding, and communication of major results easier to digest for stakeholders. 
+Finally, I developed multiple data visualizations and charts with descriptive headers to represent my key findings in order make data comparison, understanding, and communication of major results easier to digest for stakeholders during final presentation. 
 
-### Results 
+## Results 
 
-My fellow analysts and I met up again with the team lead to share and aggregate our findings. We worked together to establish unique stories based our on our own unique analyses and then combined them into a single final presentation to stakeholders, providing a wealth of unique insights for the stakeholder to pull from.
+We met up again with the team lead to share and combine our findings. We each established unique stories to present based on our analyses and combined and consolidated them into a single, cohesive presentation to present to stakeholders.
 
-For my own unique data story, I tried orientate the client by providing a bigger picture view of the data scraped. As the first presenter, my goal was to convey the major results of the web scrape and provide context for the significance of some of the key facts and figures. In particular, my presentation focused on conveying data makeup across region, inspection category and pass/fail rate and how these figures compared with one another. 
+As first speaker, I attempted to orientate the client by providing a bigger picture view of the data scraped and provide context for the significance of some of the key facts and figures. In particular, my portion of the presentation focused on conveying overall data makeup across region, inspection category and pass/fail rate and how these figures compared with one another. 
 
-You can have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1RJXpP5sq4VEvNBJWPpVhWK2vMkSgRY1oYPffN4hywLo/edit?usp=sharing)for a more detailed view of major analysis results as well as [my final presentation to stakeholder here].(https://docs.google.com/presentation/d/10mfSnhwbdKAL2EqM8qvk7jkkBh-F2K-GsZtmS3M1sqg/edit?usp=sharing) 
+You can have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1RJXpP5sq4VEvNBJWPpVhWK2vMkSgRY1oYPffN4hywLo/edit?usp=sharing)for a more detailed view of major analysis results as well as [my portion of final presentation to SuperNova stakeholders here].(https://docs.google.com/presentation/d/10mfSnhwbdKAL2EqM8qvk7jkkBh-F2K-GsZtmS3M1sqg/edit?usp=sharing) 
