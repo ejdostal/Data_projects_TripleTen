@@ -23,11 +23,11 @@ All data scraped was eventually aggregated into single spreadsheet for further a
 - `actions_taken`
 - `url_entity_full`: represents unique ID for each business
 - `Facility Name`
-`Site Address`
-`Community`
-`Facility Type`
-`url_entry_partial`
-`category`: represents each category of health inspection within the website. (ie. Food premises, Enforcement, Water Quality etc.)
+- `Site Address`
+- `Community`
+- `Facility Type`
+- `url_entry_partial`
+- `category`: represents each category of health inspection within the website. (ie. Food premises, Enforcement, Water Quality etc.)
 - `Enforcement`
 - `Action Taken`
 - `Status`
@@ -80,7 +80,7 @@ We met up again with the team lead to share and combine our findings. We each es
 
 As first speaker, I attempted to orientate the client by providing a bigger picture view of the data scraped and provide context for the significance of some of the key facts and figures. In particular, my portion of the presentation focused on conveying overall data makeup across region, inspection category and pass/fail rate and how these figures compared with one another. 
 
-You can have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1ZwUbskAimnJ_r7CBGr2PWSiFIXGusyGLmnMqu_lA-Uk/edit?usp=sharing) for a more detailed view of major analysis results as well as [my portion of final presentation to SuperNova stakeholders here. ](https://docs.google.com/presentation/d/10mfSnhwbdKAL2EqM8qvk7jkkBh-F2K-GsZtmS3M1sqg/edit?usp=sharing) 
+You can have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1ZwUbskAimnJ_r7CBGr2PWSiFIXGusyGLmnMqu_lA-Uk/edit?usp=sharing) for a more detailed view of major analysis results as well as my portion of [the final presentation to SuperNova stakeholders here. ](https://docs.google.com/presentation/d/10mfSnhwbdKAL2EqM8qvk7jkkBh-F2K-GsZtmS3M1sqg/edit?usp=sharing) 
 
 ![Supernova_MGU_Externships_Erica](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/d612c1bc-9857-478d-af42-f6038e99b9e8)
 
