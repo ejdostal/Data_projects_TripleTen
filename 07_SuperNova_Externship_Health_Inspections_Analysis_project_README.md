@@ -74,8 +74,8 @@ Then, I began aggregating and slicing data further based on some big picture que
 
 Finally, I developed multiple data visualizations and charts with descriptive headers to represent my key findings in order make data comparison, understanding, and communication of major results easier to digest for stakeholders during final presentation. 
 
-![Recreational Water and Food categories showed the highest rates of violation, total with inspections failing about 48% and 37% of the time, respectively]
 
+![Recreational Water and Food categories showed the highest rates of violation, total with inspections failing about 48% and 37% of the time, respectively](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/c8060ca9-7604-422d-9cd4-edc87dffbdb1)
 
 ## Results 
 
@@ -84,6 +84,6 @@ We met up again with the team lead to share and combine our findings. We each es
 As first speaker, I attempted to orientate the client by providing a bigger picture view of the data scraped and provide context for the significance of some of the key facts and figures. In particular, my portion of the presentation focused on conveying overall data makeup across region, inspection category and pass/fail rate and how these figures compared with one another. 
 
 You can have a look at the [Google Sheets Workbook linked here ](https://docs.google.com/spreadsheets/d/1ZwUbskAimnJ_r7CBGr2PWSiFIXGusyGLmnMqu_lA-Uk/edit?usp=sharing) for a more detailed view of major analysis results as well as my portion of the [final presentation to SuperNova stakeholders here. ](https://docs.google.com/presentation/d/10mfSnhwbdKAL2EqM8qvk7jkkBh-F2K-GsZtmS3M1sqg/edit?usp=sharing) 
-
+  
 ![Supernova_MGU_Externships_Erica](https://github.com/ejdostal/Data_projects_TripleTen/assets/151595335/d612c1bc-9857-478d-af42-f6038e99b9e8)
 
